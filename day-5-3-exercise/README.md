@@ -11,7 +11,3 @@ Important, there should only be 1 print statement in your console output. It sho
 # Hint
 
 1. There are quite a few ways of solving this problem, but you will need to use the `range()` function in any of the solutions.
-
-# Solution
-
-[https://repl.it/@appbrewery/day-5-3-solution](https://repl.it/@appbrewery/day-5-3-solution)

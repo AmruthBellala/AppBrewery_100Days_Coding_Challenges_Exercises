@@ -65,7 +65,3 @@ e.g. When you hit **run**, this is what should happen:
 # Hint
 
 1. Remember that Lists start at index 0!
-
-# Solution
-
-[https://repl.it/@appbrewery/day-4-3-solution](https://repl.it/@appbrewery/day-4-3-solution)

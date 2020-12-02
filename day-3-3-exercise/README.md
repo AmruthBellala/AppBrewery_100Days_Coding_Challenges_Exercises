@@ -68,16 +68,3 @@ e.g. When you hit **run**, this is what should happen:
 2. If you really get stuck, you can see the flow chart I created: 
 
 https://bit.ly/36BjS2D
-
-# Test Your Code
-
-Before checking the solution, try copy-pasting your code into this repl: 
-
-[https://repl.it/@appbrewery/day-3-3-test-your-code](https://repl.it/@appbrewery/day-3-3-test-your-code)
-
-This repl includes my testing code that will check if your code meets this assignment's objectives. 
-
-
-# Solution
-
-[https://repl.it/@appbrewery/day-3-3-solution](https://repl.it/@appbrewery/day-3-3-solution)

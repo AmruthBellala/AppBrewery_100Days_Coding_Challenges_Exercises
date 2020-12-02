@@ -40,9 +40,3 @@ FizzBuzz`
 
 2. Each number/text should be printed on a separate line.
 
-# Solution
-
-[https://repl.it/@appbrewery/day-5-4-solution](https://repl.it/@appbrewery/day-5-4-solution)
-
-Alternatively: [https://en.wikipedia.org/wiki/Fizz_buzz](https://en.wikipedia.org/wiki/Fizz_buzz)
-

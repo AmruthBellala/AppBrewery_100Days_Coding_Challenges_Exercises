@@ -33,7 +33,3 @@ Tails
 e.g. When you hit **run**, this is what should happen: 
 
 ![](https://cdn.fs.teachablecdn.com/2OC0GPh7Sdaho66tbBM3)
-
-# Solution
-
-[https://repl.it/@appbrewery/day-4-1-solution](https://repl.it/@appbrewery/day-4-1-solution)

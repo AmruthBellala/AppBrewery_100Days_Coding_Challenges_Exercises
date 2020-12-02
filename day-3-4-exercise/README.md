@@ -59,17 +59,3 @@ e.g. When you hit **run**, this is what should happen:
 # Hint
 
 1. Think about what you've learnt about multiple if statements and see if you can reduce the number of lines of code while having the same functionality.
-
-# Test Your Code
-
-Before checking the solution, try copy-pasting your code into this repl: 
-
-[https://repl.it/@appbrewery/day-3-4-test-your-code](https://repl.it/@appbrewery/day-3-4-test-your-code)
-
-This repl includes my testing code that will check if your code meets this assignment's objectives. 
-
-
-
-# Solution
-
-[https://repl.it/@appbrewery/day-3-4-solution](https://repl.it/@appbrewery/day-3-4-solution)

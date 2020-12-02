@@ -98,15 +98,3 @@ Then try using the modulo with some even numbers e.g.
 ```
 
 See what's in common each time.
- 
-# Test Your Code
-
-Before checking the solution, try copy-pasting your code into this repl: 
-
-[https://repl.it/@appbrewery/day-3-1-test-your-code](https://repl.it/@appbrewery/day-3-1-test-your-code)
-
-This repl includes my testing code that will check if your code meets this assignment's objectives. 
-
-# Solution
-
-[https://repl.it/@appbrewery/day-3-1-solution](https://repl.it/@appbrewery/day-3-1-solution)

@@ -57,18 +57,3 @@ Hint
 1. Try to use the **exponent** operator in your code.
 2. Remember to **round** your result to the nearest whole number. 
 3. Make sure you include the words in **bold** from the interpretations. 
-
-# Test Your Code
-
-Before checking the solution, try copy-pasting your code into this repl: 
-
-[https://repl.it/@appbrewery/day-3-2-test-your-code](https://repl.it/@appbrewery/day-3-2-test-your-code)
-
-This repl includes my testing code that will check if your code meets this assignment's objectives. 
-
-
-
-
-# Solution
-
-[https://repl.it/@appbrewery/day-3-2-solution](https://repl.it/@appbrewery/day-3-2-solution)

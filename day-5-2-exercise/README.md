@@ -33,16 +33,3 @@ e.g. When you hit **run**, this is what should happen:
 # Hint
 
 1. Think about the logic before writing code. How can you compare numbers against each other to see which one is larger?
-
-# Test Your Code
-
-Before checking the solution, try copy-pasting your code into this repl: 
-
-[https://repl.it/@appbrewery/day-5-2-test-your-code](https://repl.it/@appbrewery/day-5-2-test-your-code)
-
-This repl includes my testing code that will check if your code meets this assignment's objectives. 
-
-
-# Solution
-
-[https://repl.it/@appbrewery/day-5-2-solution](https://repl.it/@appbrewery/day-5-2-solution)

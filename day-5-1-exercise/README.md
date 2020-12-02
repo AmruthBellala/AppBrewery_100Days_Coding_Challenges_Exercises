@@ -43,15 +43,3 @@ e.g. When you hit **run**, this is what should happen:
 # Hint
 
 1. Remember to use the `round()` function to round the average height before you print it.
-
-# Test Your Code
-
-Before checking the solution, try copy-pasting your code into this repl: 
-
-[https://repl.it/@appbrewery/day-5-1-test-your-code](https://repl.it/@appbrewery/day-5-1-test-your-code)
-
-This repl includes my testing code that will check if your code meets this assignment's objectives. 
-
-# Solution
-
-[https://repl.it/@appbrewery/day-5-1-solution](https://repl.it/@appbrewery/day-5-1-solution)
